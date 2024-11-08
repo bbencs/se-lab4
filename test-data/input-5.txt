@@ -1,0 +1,3 @@
+# TC05: Mindkét torpedótároló tüzelése ALL módban (csak az elsődleges tárolóban van torpedó)
+GT4500,10,0,0,0
+TORPEDO,ALL  # Csak az elsődleges tároló tüzel
