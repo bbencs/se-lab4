@@ -1,0 +1,4 @@
+# TC10: Elsődleges tároló ismételt tüzelése, ha a másodlagos üres
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # Elsődleges tároló tüzel
+TORPEDO,SINGLE  # Elsődleges tároló ismételt tüzelése
