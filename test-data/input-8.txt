@@ -1,0 +1,3 @@
+# TC08: Fire Laser próbálkozás (nem implementált)
+#GT4500,10,0,10,0
+#LASER,ALL

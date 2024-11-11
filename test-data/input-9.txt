@@ -1,0 +1,4 @@
+# TC09: Másodlagos tároló tüzelése, ha az elsődleges sikeresen tüzelt
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # Elsődleges tároló tüzel
+TORPEDO,SINGLE  # Másodlagos tároló tüzel

@@ -1,0 +1,3 @@
+# TC01: Egy torpedó tüzelése SINGLE módban (elsődleges tárolóban van torpedó)
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # Elsődleges tároló tüzel

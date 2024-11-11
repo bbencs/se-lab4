@@ -1,0 +1,3 @@
+# TC03: Egy torpedó tüzelése SINGLE módban (mindkét tároló üres)
+GT4500,0,0,0,0
+TORPEDO,SINGLE  # Nem sikerül tüzelni

@@ -1,0 +1,3 @@
+# TC07: Tüzelési hiba az elsődleges tárolónál (elsődleges tároló hibás, másodlagosban van torpedó)
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # Első tüzelés sikertelen
